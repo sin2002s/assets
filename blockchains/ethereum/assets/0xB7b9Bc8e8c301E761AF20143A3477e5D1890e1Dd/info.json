@@ -1,0 +1,7 @@
+{
+  "name": "GoldenPUF",
+  "symbol": "GPUF",
+  "type": "ERC20",
+  "decimals": 18,
+  "address": "0xB7b9Bc8e8c301E761AF20143A3477e5D1890e1Dd"
+}
